@@ -6,6 +6,7 @@ Below is the Spanning Tree.
 ![image](https://github.com/roggersanguzu/Router-Configurations-And-Security-Implementations/assets/141458053/33594a1c-30a7-47f5-a2bb-5f985d526563)
 # Below Shows a brief Firewall Intro
 ![image](https://github.com/roggersanguzu/Router-Configurations-And-Security-Implementations/assets/141458053/1964a093-3cb4-4eb9-aa6b-62f057ea1900)
+# Networking02 Topology
+![image](https://github.com/user-attachments/assets/1a554a9a-88c3-45bb-b9cf-6a904b640f7b)
 
-.
 
